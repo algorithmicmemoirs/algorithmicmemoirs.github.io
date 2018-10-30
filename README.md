@@ -1,2 +1,2 @@
 # algorithmicmemoirs.github.io
-Jekyll Site for Aditya's Blog Posts
+Jekyll Site for Aditya's Technical Blog Posts
